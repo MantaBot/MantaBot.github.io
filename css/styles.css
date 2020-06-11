@@ -783,6 +783,7 @@ input[type='checkbox'] {
 
 .header #js-rotating {
 	color: #40e0ee;
+	width: 1000;
 }
 
 .header .p-large {
@@ -793,6 +794,7 @@ input[type='checkbox'] {
 .header .btn-solid-lg {
 	margin-right: 0.5rem;
 	margin-bottom: 1.25rem;
+	width: 1000;
 }
 
 
