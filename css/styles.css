@@ -773,12 +773,12 @@ input[type='checkbox'] {
 }
 
 .header .text-container {
-	margin-bottom: 1rem;
+	margin-bottom: 3rem;
 }
 
 .header h1 {
 	margin-bottom: 1rem;
-	font-size: 60px;
+	font-size: 50px;
 
 }
 
