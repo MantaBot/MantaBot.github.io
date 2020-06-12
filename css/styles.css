@@ -649,6 +649,8 @@ input[type='checkbox'] {
 	height: auto;
 	margin-bottom: 1px;
 	-webkit-backface-visibility: hidden;
+	border-radius: 30px;
+
 }
 
 .navbar-custom .navbar-brand.logo-text {
